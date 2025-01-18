@@ -1,0 +1,36 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Nasa APOD</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="placeholder_result">Placeholder result text</string>
+    <string name="retry">Retry</string>
+    <string name="back_button">Back</string>
+    <string name="loading">Loading</string>
+    <string name="apod_photo">APOD photos</string>
+    <string name="home_title">Home</string>
+    <string name="gallery_title">Gallery</string>
+    <string name="photo_details_title">Photo Description</string>
+    <string name="tab_gallery">Gallery</string>
+    <string name="tab_home">Home</string>
+    <string name="navigation_rail">Nav Rail</string>
+    <string name="gallery_select_title">Gallery Select</string>
+    <string name="share_photo_title">Share Photo</string>
+    <string name="random_title">Random Photos</string>
+    <string name="random_photo_title">Random Photo Fetch</string>
+    <string name="fav_title">Favourite</string>
+    <string name="favourite_title">Favourite Photos</string>
+</resources>
