@@ -56,7 +56,7 @@ nasaApiKey=*yourapikey*
 
 # Youtube Video Overview
 
-[![Watch the video](https://img.youtube.com/vi/x_o7ymNO-Cc/0.jpg)]([https://www.youtube.com/shorts/x_o7ymNO-Cc](https://www.youtube.com/watch?v=i_NvFB_siKE))
+[![Watch the video](https://img.youtube.com/vi/x_o7ymNO-Cc/0.jpg)]([https://www.youtube.com/shorts/x_o7ymNO-Cc))
 
 # Resources
 
